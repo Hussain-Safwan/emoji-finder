@@ -4602,56 +4602,6 @@ export default [
     keywords: 'keycap digit zero number math symbol',
   },
   {
-    title: 'One',
-    symbol: '1',
-    keywords: 'keycap digit one number math symbol',
-  },
-  {
-    title: 'Two',
-    symbol: '2',
-    keywords: 'keycap digit two number math symbol',
-  },
-  {
-    title: 'Three',
-    symbol: '3',
-    keywords: 'keycap digit three number math symbol',
-  },
-  {
-    title: 'Four',
-    symbol: '4',
-    keywords: 'keycap digit four number math symbol',
-  },
-  {
-    title: 'Five',
-    symbol: '5',
-    keywords: 'keycap digit five number math symbol',
-  },
-  {
-    title: 'Six',
-    symbol: '6',
-    keywords: 'keycap digit six number math symbol',
-  },
-  {
-    title: 'Seven',
-    symbol: '7',
-    keywords: 'keycap digit seven number math symbol',
-  },
-  {
-    title: 'Eight',
-    symbol: '8',
-    keywords: 'keycap digit eight number math symbol',
-  },
-  {
-    title: 'Nine',
-    symbol: '9',
-    keywords: 'keycap digit nine number math symbol',
-  },
-  {
-    title: 'Keycap Ten',
-    symbol: '🔟',
-    keywords: 'keycap ten number math symbol',
-  },
-  {
     title: 'Arrow Forward',
     symbol: '▶',
     keywords: 'black right-pointing triangle arrow symbol triangle triangle',
@@ -4817,16 +4767,7 @@ export default [
     symbol: '⤵',
     keywords: 'arrow pointing rightwards then curving downwards arrow symbol',
   },
-  {
-    title: 'Hash',
-    symbol: '#',
-    keywords: 'keycap number sign number symbol',
-  },
-  {
-    title: 'Asterisk',
-    symbol: '*',
-    keywords: 'keycap asterisk symbol',
-  },
+
   {
     title: 'Information Source',
     symbol: 'ℹ',
@@ -4912,16 +4853,7 @@ export default [
     symbol: '💱',
     keywords: 'currency exchange symbol money money',
   },
-  {
-    title: 'Copyright',
-    symbol: '©',
-    keywords: 'copyright sign symbol',
-  },
-  {
-    title: 'Registered',
-    symbol: '®',
-    keywords: 'registered sign symbol',
-  },
+
   {
     title: 'Tm',
     symbol: '™',
